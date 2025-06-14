@@ -1,0 +1,1 @@
+print("run hand_eye_tf_publisher.py and reconfigure the parameters using the euler obtained in step3")

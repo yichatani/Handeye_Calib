@@ -1,0 +1,13 @@
+{
+
+    "trial_name": "trial1",
+    "camera_link": "rgb_camera_link",
+    "ee_link": "tool0_controller",
+    "robot_base_link": "base",
+    "data_dir": "/home/glab/Hardware_WS/src/handeye_calib/data/trial1",
+    "img_topic": "/rgb/image_rect_color",
+    "chessboard_size": [11, 8],
+    "camera_matrix": {"fx": 618.21, "fy": 618.32, "cx": 641.34, "cy": 368.05},
+    "chessboard_square_size": 0.02
+    
+}
